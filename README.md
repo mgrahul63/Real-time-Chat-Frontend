@@ -198,15 +198,15 @@ src
 
 # 👨‍💻 Author
 
-**MD. Rahul Mia**
-Frontend & Full Stack Developer
+**MD. Rahul Mia** <br/>
+Frontend & Full Stack Developer <br/>
 BSc. Jatiya Kabi Kazi Nazrul Islam University (JKKNIU)
 
 ---
 
 # 📬 Contact
 
-📧 Email: [mgrahul639@gmail.com](mailto:mgrahul639@gmail.com)
+📧 Email: [mgrahul639@gmail.com](mailto:mgrahul639@gmail.com)<br/>
 🌐 GitHub: [https://github.com/mgrahul63](https://github.com/mgrahul63)
 
 ---
