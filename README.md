@@ -200,7 +200,7 @@ src
 
 **MD. Rahul Mia** <br/>
 Frontend & Full Stack Developer <br/>
-BSc. Jatiya Kabi Kazi Nazrul Islam University (JKKNIU)
+BSc. Jatiya Kabi Kazi Nazrul Islam University ([JKKNIU](https://www.jkkniu.edu.bd/))
 
 ---
 
